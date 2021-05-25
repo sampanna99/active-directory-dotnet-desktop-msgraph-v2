@@ -7,7 +7,7 @@ products:
 - azure-active-directory  
 - dotnet
 - ms-graph
-description: "This sample demonstrates how to use the MSAL.NET to get an access token and call the Microsoft Graph."
+description: "This sample demonstrates how to use the MSAL.NET to get an access token and call the Microsoft Graph." OK
 ---
 ![Build Badge](https://identitydivision.visualstudio.com/_apis/public/build/definitions/a7934fdd-dcde-4492-a406-7fad6ac00e17/484/badge)
 
